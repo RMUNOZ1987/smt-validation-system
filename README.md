@@ -21,5 +21,7 @@ Permitir a las áreas de ingeniería, calidad y producción dar seguimiento en t
 - Backend: Java / Node.js
 - Base de datos: MySQL
 
+- Actualización para activar CI
+
 ## Metodología
 Se utiliza control de versiones con Git, manejo de ramas (develop/master), integración continua y gestión de tareas mediante issues y milestones.
