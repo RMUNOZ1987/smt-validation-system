@@ -26,3 +26,5 @@ Permitir a las áreas de ingeniería, calidad y producción dar seguimiento en t
 ## Metodología
 Se utiliza control de versiones con Git, manejo de ramas (develop/master), integración continua y gestión de tareas mediante issues y milestones.
 Prueba de pull request
+
+Activando integración continua
